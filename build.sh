@@ -1,0 +1,2 @@
+#sbt assembly
+sbt package
